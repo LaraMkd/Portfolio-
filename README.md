@@ -4,6 +4,6 @@ certifications and projects related
 to data analysis.
 
 ## Certificates
-- [Mimo SQL Certificate](Mimo_Certificate.pdf): Skills
+- [Mimo SQL Certificate](Mimo SQL certificate. .pdf): Skills
 - in SQL, data querying, and database
 - management.
